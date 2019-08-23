@@ -1,0 +1,1 @@
+This repository and application is for testing Git commands, creating/adding/merging branches, and developing Java applications to refine skills.
