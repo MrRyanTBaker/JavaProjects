@@ -1,0 +1,1 @@
+This applications allows user choice, do/while to force user to do both conversions, loop for mulitple entries, and user input validation.
