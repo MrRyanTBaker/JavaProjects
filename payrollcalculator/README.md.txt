@@ -1,0 +1,2 @@
+This application takes input from the user, validates the entry and then produces a report based on the entered data.  
+The user must input data for 4 hourly workers and 2 salary workers, which the names names have been prepopulated. 
